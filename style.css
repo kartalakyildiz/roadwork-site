@@ -1,4 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700&display=swap");
+/* Self-hosted (SIL Open Font License), latin subset: no request to Google before consent. */
+@font-face { font-family: "Anton"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/anton-latin.woff2") format("woff2"); }
+@font-face { font-family: "Inter"; font-style: normal; font-weight: 400 700; font-display: swap; src: url("fonts/inter-latin.woff2") format("woff2"); }
 
 :root {
   --ink: #0E0E10;
